@@ -6,7 +6,7 @@ __You can find a live version of our website [here](https://hospitalfinder.pytho
 
 _Youtube Demo: [here](https://www.youtube.com/watch?v=JaAnOFWMbUE)_
 
-Made by: Rajarshi Ghosh Dastidar, Anupam Samanta, Sagnik Sinha, Swairik Dey
+Made by: [Rajarshi Ghosh Dastidar](https://rajarshi.js.org/), Anupam Samanta, Sagnik Sinha, Swairik Dey
 
 
 ## Technology Stack
